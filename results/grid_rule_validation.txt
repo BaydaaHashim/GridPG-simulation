@@ -1,0 +1,6 @@
+﻿far N=50       k_opt= 0.99 rule m=2 best-HND m=2 | HND 2:246 3:176 4:118 5:88 | FND 2:216 3:144 4:102 5:75 | rule/best HND = 1.000
+far N=200      k_opt= 2.04 rule m=2 best-HND m=2 | HND 2:386 3:376 4:299 5:232 | FND 2:303 3:329 4:264 5:196 | rule/best HND = 1.000
+center N=50    k_opt= 5.47 rule m=3 best-HND m=3 | HND 2:482 3:541 4:541 5:510 | FND 2:296 3:466 4:458 5:422 | rule/best HND = 1.000
+center N=100   k_opt= 8.68 rule m=3 best-HND m=4 | HND 2:482 3:570 4:587 5:567 | FND 2:339 3:526 4:533 5:492 | rule/best HND = 0.970
+center N=200   k_opt=12.60 rule m=4 best-HND m=5 | HND 2:486 3:587 4:620 5:621 | FND 2:319 3:551 4:585 5:570 | rule/best HND = 0.999
+corner N=100   k_opt= 2.09 rule m=2 best-HND m=3 | HND 2:404 3:415 4:353 5:287 | FND 2:322 3:362 4:305 5:232 | rule/best HND = 0.972
